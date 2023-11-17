@@ -1,1 +1,1 @@
-# generic_ml_projects
+# Generic Machine Learning Projects
